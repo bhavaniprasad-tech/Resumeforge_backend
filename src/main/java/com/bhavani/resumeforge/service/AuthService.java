@@ -30,7 +30,7 @@ public class AuthService {
 
     private final JwtUtil jwtUtil;
 
-    @Value("${app.base.url : http://localhost:8080}")
+    @Value("${app.base.url}")
     private String appBaseUrl;
 
     public AuthResponse register(RegisterRequest request){
