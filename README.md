@@ -6,7 +6,7 @@ This repository contains the backend implementation of the ResumeForge applicati
 
 The frontend of this application is built using React.js and is maintained in a separate repository.
 
-🔗 Frontend Repo: https://github.com/bhavaniprasad-tech/resumeforge-frontend
+🔗 Frontend Repo: https://github.com/bhavaniprasad-tech/Resumeforge_frontend
 
 ## Tech Stack
 
