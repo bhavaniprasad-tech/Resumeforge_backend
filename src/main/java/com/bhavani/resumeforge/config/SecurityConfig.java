@@ -74,7 +74,8 @@ public class SecurityConfig {
 
         configuration.setAllowedOrigins(Arrays.asList(
                 "http://localhost:5173",
-                "http://localhost:5174"
+                "http://localhost:5174",
+                "https://resumeforge1.netlify.app/"
         ));
 
         configuration.setAllowedMethods(Arrays.asList(
